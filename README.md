@@ -29,13 +29,11 @@ I don't just train models — I engineer them for deployment. Currently executin
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartikkashyaprajput001&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikkashyaprajput001&layout=compact&theme=radical&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true)
-
-*(Replace `YOUR-USERNAME` with your actual GitHub username in all 3 URLs above)*
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartikkashyaprajput001&theme=radical&hide_border=true)
 
 ---
 
@@ -73,7 +71,7 @@ I don't just train models — I engineer them for deployment. Currently executin
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kartikkashyaprajput001@gmail.com)
 
 ---
 
