@@ -58,15 +58,11 @@ I don't just train models — I engineer them for deployment. Currently executin
 | DP | 0 | 15 |
 | **Total** | **0** | **200+** |
 
-*(Update this table every Sunday)*
+
 
 ---
 
-## 📅 Current Sprint: Week 1 of 12
 
-> Python Revision · Descriptive Statistics · Arrays & Time Complexity
-
----
 
 ## 🤝 Let's Connect
 
