@@ -19,19 +19,33 @@ I believe in learning by building. I am currently focused on turning my theoreti
 
 ## 🛠️ Tech Stack
 
-**Core AI/ML:** RAG, Large Language Models (LLMs), Embeddings, Semantic Search, Vector Databases (Qdrant), Prompt Engineering  
-**Languages:** Python, SQL  
-**Currently Learning:** FastAPI, Docker, PyTorch, Data Structures & Algorithms  
+**Core AI/ML:** RAG, Large Language Models (LLMs), Embeddings, Semantic Search, Vector Databases (Qdrant), Prompt Engineering
+**ML Foundations:** Regression, statsmodels, scikit-learn, pandas, numpy
+**Languages:** Python, SQL
+**Currently Learning:** FastAPI, Docker, PyTorch, Data Structures & Algorithms
+
+---
+
+## 📊 Featured Project
+
+**[Linear Regression — Advertising Dataset](https://github.com/Kartikkashyaprajput001/ml-notebook/tree/main/linear-regression-advertising)**
+Predicting Sales from TV ad spend using OLS regression (statsmodels). Covers EDA, correlation analysis, train/test split, model fitting, and evaluation.
+**Results:** R² ≈ 0.61 (train) / 0.59 (test) · RMSE ≈ 2.82
+`pandas` `statsmodels` `scikit-learn` `seaborn`
 
 ---
 
 ## 📌 Pinned Repositories
 
-*(Work in Progress – Code being cleaned and documented for upload)*
+1. **[ml-notebook](https://github.com/Kartikkashyaprajput001/ml-notebook)** — Collection of ML notebooks: EDA, model building, and evaluation on different datasets.
 
-1. **[hyper-ai](https://github.com/Kartikkashyaprajput001/hyper-ai)** — End-to-end RAG pipeline built with embeddings, cosine similarity, and Qdrant. *(Coming Soon)*
-2. **[dsa-python-journey](https://github.com/Kartikkashyaprajput001/dsa-python-journey)** — Daily Data Structures & Algorithms practice and solutions in Python. *(Coming Soon)*
-3. **[ai-ml-learning](https://github.com/Kartikkashyaprajput001/ai-ml-learning)** — Notes, experiments, and code from my ongoing ML/MLOps upskilling. *(Coming Soon)*
+---
+
+## 📈 Language Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikkashyaprajput001&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kartikkashyaprajput001&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Kartikkashyaprajput001&theme=tokyonight&hide_border=true)
 
 ---
 
