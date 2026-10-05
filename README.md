@@ -1,74 +1,53 @@
-# Hey, I'm Kartik Kashyap 👋
+# Hi, I'm Kartik Kashyap 👋
 
-### AI/ML Engineer in Training | Building Production-Ready AI Systems
+### Building RAG Pipelines & Exploring Emerging AI Architectures
 
-I don't just train models — I engineer them for deployment. Currently executing a rigorous 12-week plan to master Classical ML, Deep Learning (PyTorch), and Generative AI (LangChain/LangGraph), while grinding 200+ DSA problems in Python.
+I am an AI/ML student passionate about building practical Retrieval-Augmented Generation (RAG) systems and staying updated with the latest advancements in Large Language Models. I have hands-on experience creating text embeddings, performing semantic search, and integrating Vector Databases like Qdrant.
+
+I believe in learning by building. I am currently focused on turning my theoretical knowledge of LLMs into deployed applications, while continuously exploring new AI research and architectures.
 
 ---
 
-## 🔭 What I'm Currently Building
+## 🔭 Current Focus
 
-| Project | Status | Stack |
-|---------|--------|-------|
-| MLOps Classification Pipeline | 🟡 In Progress | FastAPI, Docker, MLflow, Scikit-learn |
-| Document Intelligence (CV + NLP) | ⬜ Planned | PyTorch, HuggingFace, Gradio |
-| Multi-Agent RAG System | ⬜ Planned | LangGraph, ChromaDB, Ragas, FastAPI |
+- **Building:** End-to-end RAG pipelines with embeddings and vector search (Project: *Hyper AI*).
+- **Exploring:** Emerging LLM architectures (e.g., hybrid Mamba/Transformer models, new attention mechanisms) and the latest AI research.
+- **Learning:** MLOps fundamentals (FastAPI, Docker) and strengthening my core Python & DSA foundations.
+- **Upskilling:** Preparing for industry-recognized certifications in AWS ML and AI Practitioner tracks.
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Core AI/ML:** RAG, Large Language Models (LLMs), Embeddings, Semantic Search, Vector Databases (Qdrant), Prompt Engineering  
 **Languages:** Python, SQL  
-**ML/DL:** PyTorch, Scikit-learn, HuggingFace Transformers, XGBoost  
-**GenAI:** LangChain, LangGraph, OpenAI API, ChromaDB, Pinecone  
-**MLOps:** Docker, FastAPI, MLflow, GitHub Actions  
-**Data:** Pandas, NumPy, Matplotlib, Seaborn  
-**DSA:** Python (Arrays, Trees, Graphs, DP)
+**Currently Learning:** FastAPI, Docker, PyTorch, Data Structures & Algorithms  
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Pinned Repositories
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartikkashyaprajput001&show_icons=true&theme=radical&hide_border=true)
+*(Work in Progress – Code being cleaned and documented for upload)*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikkashyaprajput001&layout=compact&theme=radical&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartikkashyaprajput001&theme=radical&hide_border=true)
-
----
-
-## 📌 Pinned Projects
-
-*(These will auto-populate once you pin 3 repos. For now, this section is a placeholder.)*
-
-1. **Project1-MLOps-Classifier** — Containerized credit risk model with FastAPI + Docker + MLflow
-2. **Project2-Doc-Intelligence** — HuggingFace BERT document classifier on HF Spaces
-3. **Project3-Multi-Agent-Capstone** — LangGraph multi-agent RAG with evaluation
+1. **[hyper-ai](https://github.com/Kartikkashyaprajput001/hyper-ai)** — End-to-end RAG pipeline built with embeddings, cosine similarity, and Qdrant. *(Coming Soon)*
+2. **[dsa-python-journey](https://github.com/Kartikkashyaprajput001/dsa-python-journey)** — Daily Data Structures & Algorithms practice and solutions in Python. *(Coming Soon)*
+3. **[ai-ml-learning](https://github.com/Kartikkashyaprajput001/ai-ml-learning)** — Notes, experiments, and code from my ongoing ML/MLOps upskilling. *(Coming Soon)*
 
 ---
 
-## 📝 DSA Progress
+## 📚 Currently Reading & Exploring
 
-| Topic | Problems Solved | Target |
-|-------|----------------|--------|
-| Arrays & Hashing | 0 | 45 |
-| Binary Search | 0 | 20 |
-| Trees & BST | 0 | 30 |
-| Graphs | 0 | 25 |
-| DP | 0 | 15 |
-| **Total** | **0** | **200+** |
-
-
+- Emerging LLM Architectures (e.g., Jamba, hybrid state-space models, new attention mechanisms)
+- Advanced chunking strategies and retrieval optimization for RAG systems
+- The intersection of traditional ML and modern Generative AI deployment
 
 ---
-
-
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-kashyap-hr001/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kartikkashyaprajput001@gmail.com)
 
 ---
 
-*"The best time to start was yesterday. The second best time is right now."*
+> *"The best time to start was yesterday. The second best time is right now."*
