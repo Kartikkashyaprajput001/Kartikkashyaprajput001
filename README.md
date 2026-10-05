@@ -1,43 +1,56 @@
 # Hi, I'm Kartik Kashyap 👋
 
-### Building RAG Pipelines & Exploring Emerging AI Architectures
+### AI/ML Engineer in Training | Building Production AI Systems
 
-I am an AI/ML student passionate about building practical Retrieval-Augmented Generation (RAG) systems and staying updated with the latest advancements in Large Language Models. I have hands-on experience creating text embeddings, performing semantic search, and integrating Vector Databases like Qdrant.
-
-I believe in learning by building. I am currently focused on turning my theoretical knowledge of LLMs into deployed applications, while continuously exploring new AI research and architectures.
+I am an AI/ML student passionate about building practical Retrieval-Augmented Generation (RAG) systems, computer vision tools, and NLP pipelines, while staying current with the latest advancements in Large Language Models. I believe in learning by building — turning theoretical ML/CV/NLP knowledge into working, documented projects.
 
 ---
 
 ## 🔭 Current Focus
 
-- **Building:** End-to-end RAG pipelines with embeddings and vector search (Project: *Hyper AI*).
-- **Exploring:** Emerging LLM architectures (e.g., hybrid Mamba/Transformer models, new attention mechanisms) and the latest AI research.
-- **Learning:** MLOps fundamentals (FastAPI, Docker) and strengthening my core Python & DSA foundations.
+- **Building:** End-to-end RAG pipelines with embeddings and vector search (Qdrant).
+- **Exploring:** Emerging LLM architectures (hybrid Mamba/Transformer models, new attention mechanisms) and LangChain-based applications.
+- **Learning:** MLOps fundamentals (FastAPI, Docker) and strengthening core Python & DSA foundations.
 - **Upskilling:** Preparing for industry-recognized certifications in AWS ML and AI Practitioner tracks.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core AI/ML:** RAG, Large Language Models (LLMs), Embeddings, Semantic Search, Vector Databases (Qdrant), Prompt Engineering
-**ML Foundations:** Regression, statsmodels, scikit-learn, pandas, numpy
+**Core AI/ML:** RAG, LLMs, Embeddings, Semantic Search, Vector Databases (Qdrant), Prompt Engineering, PyTorch, LangChain
+**NLP:** Text preprocessing, Bag-of-Words, TF-IDF, classification
+**Backend / MLOps:** FastAPI, Uvicorn, Pydantic, Docker
 **Languages:** Python, SQL
-**Currently Learning:** FastAPI, Docker, PyTorch, Data Structures & Algorithms
 
 ---
 
-## 📊 Featured Project
+## 📊 Projects
 
-**[Linear Regression — Advertising Dataset](https://github.com/Kartikkashyaprajput001/ml-notebook/tree/main/linear-regression-advertising)**
-Predicting Sales from TV ad spend using OLS regression (statsmodels). Covers EDA, correlation analysis, train/test split, model fitting, and evaluation.
-**Results:** R² ≈ 0.61 (train) / 0.59 (test) · RMSE ≈ 2.82
+### [ml-notebook](https://github.com/Kartikkashyaprajput001/ml-notebook)
+Collection of ML notebooks covering EDA, model building, and evaluation on different datasets.
+**Featured:** Linear Regression on the Advertising dataset (OLS, statsmodels) — R² ≈ 0.59 (test), RMSE ≈ 2.82.
 `pandas` `statsmodels` `scikit-learn` `seaborn`
+
+### [plant-health-dust-monitor](https://github.com/Kartikkashyaprajput001/plant-health-dust-monitor)
+CLI tool that inspects houseplant leaves from a single image to flag surface dust and chlorosis/yellow spots, outputting a numerical health report and an analysis figure. *Concept and problem framing by me; core image-processing (HSV segmentation, contrast analysis) implementation AI-assisted — I understand the approach at a high level and am still learning the underlying OpenCV segmentation code in depth.*
+`Python` `NumPy`
+
+### [ai-resume-chatbot](https://github.com/Kartikkashyaprajput001/ai-resume-chatbot)
+Recruitment web app where candidates upload a resume to get a shareable link; recruiters can chat with an AI grounded strictly in the parsed resume data, and get a fit score against a pasted job description. Self-contained FastAPI backend with streamed (SSE) responses. *Concept and architecture designed by me; implementation AI-assisted.*
+`FastAPI` `Groq` `Pydantic` `PyPDF` `vanilla JS`
+
+### [nlp-notebooks](https://github.com/Kartikkashyaprajput001/nlp-notebooks)
+Hands-on NLP notebooks covering text preprocessing, Bag-of-Words, TF-IDF, embeddings, and classification.
+`scikit-learn` `NLTK/TF-IDF`
 
 ---
 
 ## 📌 Pinned Repositories
 
-1. **[ml-notebook](https://github.com/Kartikkashyaprajput001/ml-notebook)** — Collection of ML notebooks: EDA, model building, and evaluation on different datasets.
+1. **[ml-notebook](https://github.com/Kartikkashyaprajput001/ml-notebook)** — ML notebooks: EDA, model building, and evaluation.
+2. **[plant-health-dust-monitor](https://github.com/Kartikkashyaprajput001/plant-health-dust-monitor)** — CLI tool detecting leaf dust and chlorosis.
+3. **[ai-resume-chatbot](https://github.com/Kartikkashyaprajput001/ai-resume-chatbot)** — FastAPI + Groq resume-grounded recruiter chatbot.
+4. **[nlp-notebooks](https://github.com/Kartikkashyaprajput001/nlp-notebooks)** — NLP preprocessing, BoW, TF-IDF notebooks.
 
 ---
 
@@ -46,14 +59,6 @@ Predicting Sales from TV ad spend using OLS regression (statsmodels). Covers EDA
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikkashyaprajput001&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kartikkashyaprajput001&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://streak-stats.demolab.com/?user=Kartikkashyaprajput001&theme=tokyonight&hide_border=true)
-
----
-
-## 📚 Currently Reading & Exploring
-
-- Emerging LLM Architectures (e.g., Jamba, hybrid state-space models, new attention mechanisms)
-- Advanced chunking strategies and retrieval optimization for RAG systems
-- The intersection of traditional ML and modern Generative AI deployment
 
 ---
 
